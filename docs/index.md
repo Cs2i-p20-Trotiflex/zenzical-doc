@@ -1,35 +1,28 @@
-# Le Perceptron Simple en Rust
+---
+icon: material/markdown
+---
 
-Documentation de l'implémentation d'un **perceptron simple** (neurone artificiel unique) conçu en Rust. Ce modèle est capable de classer des données linéairement séparables (comme les portes logiques ET/OU).
+# Markdown : prenez des notes efficacement !
+
+## Introduction
+
+> Se concentrer sur le fond, oublier la forme.
+
+* **Markdown** est un langage informatique destiné à la prise de notes (techniques ou non) et à la rédaction de documentation technique.
+* Bien qu'étant un langage informatique, il est simple à apprendre. Il suffit de quelques codes pour commencer à l'utiliser.
+
+!!! success "Pratique"
+    L'intérêt de Markdown est de se concentrer sur le **fond** plutôt que sur la **forme**. Il permet donc de prendre des notes efficacement sans s'embarrasser de mise en forme.
 
 ---
 
-##  Fonctionnement Théorique
+## Que vous faut-il pour écrire en Markdown ?
 
-Un perceptron prend plusieurs entrées ($x_1, x_2, \dots, x_n$), leur applique des poids ($w_1, w_2, \dots, w_n$), ajoute un biais ($b$), puis passe le tout dans une fonction d'activation (ici, la fonction échelon ou *Heaviside*).
+Le langage Markdown nécessite un outil compatible pour pouvoir être interprété. De nombreux éditeurs de texte intègrent Markdown. Parmi eux :
 
-La formule mathématique de la somme pondérée $z$ est :
+* Obsidian
+* Visual Studio Code
+* PHPStorm, WebStorm... (les outils JetBrains en général)
 
-$$ z = \sum_{i=1}^{n} w_i x_i + b $$
-
-La sortie prédite $\hat{y}$ est déterminée par la fonction d'activation :
-
-$$
-\hat{y} = f(z) = \begin{cases} 1 & \text{si } z \geq 0 \\ 0 & \text{si } z < 0 \end{cases}
-$$
-
----
-
-##  Architecture du Code en Rust
-
-Le projet est structuré autour d'une structure `Perceptron` qui gère les poids, le biais et le taux d'apprentissage (*learning rate*).
-
-### 1. La Structure du Perceptron
-
-```rust
-pub struct Perceptron {
-    pub weights: Vec<f32>,
-    pub bias: f32,
-    pub learning_rate: f32,
-}
-```
+!!! info "Voir aussi"
+    * [Markdown Guide](https://www.markdownguide.org)
