@@ -47,7 +47,7 @@ Copyright &copy; 2026 The authors
 nav = [
     { "Le langage Markdown" = "index.md" },
     { "Listes en Markdown" = "listes.md" },
-    { "Markdown" = "markdown.md" },
+    { "Markdown" = "markdown.md" }
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
