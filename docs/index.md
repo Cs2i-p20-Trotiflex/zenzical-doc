@@ -1,7 +1,3 @@
----
-icon: material/markdown
----
-
 # Markdown : prenez des notes efficacement !
 
 ## Introduction
