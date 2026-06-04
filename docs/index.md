@@ -1,24 +1,8 @@
-# Markdown : prenez des notes efficacement !
+# Les workflows GitHub
 
-## Introduction
+Voici une page dédiée pour chaque question :
 
-> Se concentrer sur le fond, oublier la forme.
-
-* **Markdown** est un langage informatique destiné à la prise de notes (techniques ou non) et à la rédaction de documentation technique.
-* Bien qu'étant un langage informatique, il est simple à apprendre. Il suffit de quelques codes pour commencer à l'utiliser.
-
-!!! success "Pratique"
-    L'intérêt de Markdown est de se concentrer sur le **fond** plutôt que sur la **forme**. Il permet donc de prendre des notes efficacement sans s'embarrasser de mise en forme.
-
----
-
-## Que vous faut-il pour écrire en Markdown ?
-
-Le langage Markdown nécessite un outil compatible pour pouvoir être interprété. De nombreux éditeurs de texte intègrent Markdown. Parmi eux :
-
-* Obsidian
-* Visual Studio Code
-* PHPStorm, WebStorm... (les outils JetBrains en général)
-
-!!! info "Voir aussi"
-    * [Markdown Guide](https://www.markdownguide.org)
+- [Dans quel cadre s'appliquent les workflows GitHub ?](dans-quel-cadre-sapplique-les-workflows.md)
+- [À quoi servent les workflows GitHub ?](a-quoi-servent-les-workflows.md)
+- [Quels sont leurs intérêts ?](quels-sont-leurs-interets.md)
+- [Comment fonctionnent les workflows GitHub ?](comment-fonctionnent-les-workflows.md)
