@@ -1,6 +1,6 @@
 # Quels sont leurs intérêts ?
 
-Les workflows GitHub présentent plusieurs intérêts importants :
+Les workflows GitHub ont plusieurs intérêts importants :
 
 - automatiser les tâches répétitives,
 - assurer une qualité constante du code,
@@ -8,4 +8,4 @@ Les workflows GitHub présentent plusieurs intérêts importants :
 - déployer plus rapidement et en toute confiance,
 - partager les mêmes règles de validation avec toute l'équipe.
 
-Ils offrent également une meilleure traçabilité, car chaque exécution est enregistrée et visible dans l'onglet Actions du dépôt.
+ça  permet aussi de tracé le  code , car chaque exécution est enregistrée et visible dans l'onglet Actions du dépôt.
