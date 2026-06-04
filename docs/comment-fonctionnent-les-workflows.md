@@ -1,6 +1,6 @@
 # Comment fonctionnent les workflows GitHub ?
 
-Les workflows GitHub fonctionnent grâce à des fichiers YAML qui décrivent :
+Les workflows GitHub fonctionnent grâce à des fichiers YAML qui expliquent :
 
 - les événements déclencheurs (`on:`),
 - les jobs à exécuter (`jobs:`),

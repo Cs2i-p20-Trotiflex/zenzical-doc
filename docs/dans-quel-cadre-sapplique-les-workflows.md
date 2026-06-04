@@ -1,6 +1,6 @@
 # Dans quel cadre s'appliquent les workflows GitHub ?
 
-Les workflows GitHub s'appliquent dans les projets où vous souhaitez automatiser des tâches liées au développement et au déploiement. Ils sont utiles dès que vous avez besoin de :
+Les workflows GitHub s'appliquent dans les projets où on souhaite automatiser des tâches liées au développement et au déploiement. Ils sont utiles dès que on a besoin de :
 
 - vérifier le code automatiquement à chaque push ou pull request,
 - exécuter des tests unitaires et d'intégration,

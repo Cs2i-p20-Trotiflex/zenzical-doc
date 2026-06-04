@@ -1,6 +1,6 @@
 # Les workflows GitHub
 
-Voici une page dédiée pour chaque question :
+petit sommaire des questions  pour chaque pages :
 
 - [Dans quel cadre s'appliquent les workflows GitHub ?](dans-quel-cadre-sapplique-les-workflows.md)
 - [À quoi servent les workflows GitHub ?](a-quoi-servent-les-workflows.md)
