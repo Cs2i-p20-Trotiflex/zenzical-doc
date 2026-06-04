@@ -45,10 +45,9 @@ Copyright &copy; 2026 The authors
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    { "Le langage Markdown" = "index.md" },
+    { "Vue d'ensemble" = "index.md" },
     {
       "Workflows GitHub" = [
-        { "Vue d'ensemble" = "listes.md" },
         { "Cadre d'application" = "dans-quel-cadre-sapplique-les-workflows.md" },
         { "Utilité" = "a-quoi-servent-les-workflows.md" },
         { "Intérêts" = "quels-sont-leurs-interets.md" },
